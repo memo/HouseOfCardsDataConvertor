@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = BB0E3F090E30D8950053670D /* HouseOfCardsDataConvertor */;
+		activeTarget = 8DD76F620486A84900D96B5E /* HouseOfCardsDataConvertor */;
+		codeSenseManager = BB0E3F120E30D8AC0053670D /* Code sense */;
+		executables = (
+			BB0E3F090E30D8950053670D /* HouseOfCardsDataConvertor */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1402,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1362,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321109050;
+			PBXWorkspaceStateSaveDate = 321109050;
+		};
+		perUserProjectItems = {
+			BB9FBF291323BC44007BC1A4 /* PBXTextBookmark */ = BB9FBF291323BC44007BC1A4 /* PBXTextBookmark */;
+			BBD27F411218424C00B7A802 /* PBXTextBookmark */ = BBD27F411218424C00B7A802 /* PBXTextBookmark */;
+		};
+		sourceControlManager = BB0E3F110E30D8AC0053670D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1580, 2288}}";
+			sepNavSelRange = "{1126, 0}";
+			sepNavVisRange = "{311, 2204}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* HouseOfCardsDataConvertor */ = {
+		activeExec = 0;
+		executables = (
+			BB0E3F090E30D8950053670D /* HouseOfCardsDataConvertor */,
+		);
+	};
+	BB0E3F090E30D8950053670D /* HouseOfCardsDataConvertor */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HouseOfCardsDataConvertor;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	BB0E3F110E30D8AC0053670D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	BB0E3F120E30D8AC0053670D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BB9FBF291323BC44007BC1A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 27";
+		rLen = 0;
+		rLoc = 1126;
+		rType = 0;
+		vrLen = 2204;
+		vrLoc = 311;
+	};
+	BBD27F411218424C00B7A802 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 27";
+		rLen = 0;
+		rLoc = 1126;
+		rType = 0;
+		vrLen = 2075;
+		vrLoc = 380;
+	};
+}
